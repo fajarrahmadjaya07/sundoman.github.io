@@ -4,7 +4,8 @@
   "description": "",
   "main": "js/scripts.js",
   "scripts": {
-    "watch": "gulp watch"
+    "watch": "gulp watch",
+    "start": "lite-server"
   },
   "keywords": [
     "portfolio",
@@ -27,6 +28,7 @@
     "sass": "^1.72.0",
     "gulp-sass": "^5.1.0",
     "gulp-uglify": "^3.0.2",
-    "gulp-wait": "0.0.2"
+    "gulp-wait": "0.0.2",
+    "lite-server": "^2.6.1"
   }
 }
